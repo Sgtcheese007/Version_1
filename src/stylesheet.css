@@ -1,0 +1,31 @@
+.button_layout_1 {
+    -fx-background-color: blank; -fx-font-family: "Comic Sans MS"; -fx-text-fill: purple; -fx-font: bold; -fx-font-size: 36;
+}
+
+.button_layout_1:hover{
+    -fx-background-color: darkgrey;
+}
+
+.label_text_title {
+    -fx-font: bold; -fx-font-size: 72; -fx-font-family: "Comic Sans MS"; -fx-text-fill: purple; -fx-underline: true;
+}
+
+.stage_background_1 {
+    -fx-background-color: lightgrey;
+}
+
+.stage_background_2 {
+    -fx-background-color: purple;
+}
+
+.button_layout_2 {
+    -fx-background-color: blank; -fx-text-fill: purple; -fx-font: bold; -fx-font-size: 54;
+}
+
+.button_layout_2:hover{
+    -fx-background-color: darkgrey;
+}
+
+.combobox_layout {
+    -fx-background-color: blank; -fx-font-family: "Comic Sans MS"; -fx-text-fill: purple; -fx-font: bold; -fx-font-size: 36; -fx-background-color: darkgrey;
+}
